@@ -21,7 +21,7 @@ A simple, colorful CLI task/todo manager built with Python. Uses JSON to persist
 
 ## Usage
 Run the main script:
-```bash
+```b```bash
 python main.py
 ```
 
