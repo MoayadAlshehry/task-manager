@@ -14,8 +14,8 @@ CLI todo manager with color-coded priorities and JSON file storage.
 ## Installation
 1. Clone the repository:
 ```bash
-   git clone https://github.com/MoayadAlshehry/task-manager.git
-   cd task-manager
+git clone https://github.com/MoayadAlshehry/task-manager.git
+cd task-manager
 ```
 
 ## Usage
